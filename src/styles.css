@@ -1,0 +1,72 @@
+/*cajita*/
+.caja{
+    background-color: #ffffff;
+    width: 290px;
+    height: 45px;
+    border: 2px solid  #ff0000c9;
+    border-radius: 8px;
+    text-align: left;
+    color:#000000;
+    font-size: 20px;
+    margin-bottom: 15px;
+    padding-left: 15px;
+  }
+  
+
+  /*Boton*/
+  .boton {
+    background-color: #ffffff;
+    width: 290px;
+    height: 45px;
+    border: 2px solid #ff0000;
+    border-radius: 10px;
+    text-align: center;
+    color: #000000 !important;
+    font-family: Trebuchet MS, sans-serif;
+    font-weight: bold;
+    font-size: 22px;
+    cursor: pointer;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .boton:hover {
+    background-color: rgba(206, 206, 206, 0.623);
+  }
+  
+  .font{
+    margin-top: 12px;
+    font-family: Trebuchet MS, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgba(255, 255, 255, 0.616);
+  }
+
+  .container {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 600px;
+    background-color: #000000;
+    box-shadow: 1px 0px 25px #ff0000;
+    border-radius: 25px;
+    }
+    
+    body {
+        margin-top: 5%;
+        background-color: #ffffff;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .titulo {
+        font-size: 30px;
+        color: white;
+        font-family: Trebuchet MS, sans-serif;
+        font-weight: bold;
+        margin-bottom: 10px;
+      }
+
+      img{
+       width: 150px;
+      }
